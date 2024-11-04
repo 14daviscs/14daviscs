@@ -1,4 +1,4 @@
-## I was told to make a readme... this is the readme 🤔
+## If you're reading this... this is the readme 🤔
 
 <!--
 **14daviscs/14daviscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
